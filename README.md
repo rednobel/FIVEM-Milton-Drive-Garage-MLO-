@@ -5,3 +5,5 @@ add IM_garage4 to your server.cfg.
 start IM_garage4
 
 Done.
+
+https://imgur.com/CUJb00z
