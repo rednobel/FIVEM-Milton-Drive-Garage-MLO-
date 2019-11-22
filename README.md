@@ -6,4 +6,4 @@ start IM_garage4
 
 Done.
 
-![alt text](https://i.imgur.com/CUJb00z.png)
+![alt text](https://i.imgur.com/0KhFCwd.png)
